@@ -40,9 +40,7 @@ docs-zh:
       - title:  创建一个 Spring Boot 项目
         url:    http://springboot.javaboy.org/2019/0412/springboot-init
       - title:  理解 pom.xml 中的 parent
-        url:    http://springboot.javaboy.org/2019/0413/spring-boot-parent        
-      - title:  Java 搭建 SSM
-        url:    http://springboot.javaboy.org/2019/0528/javassm
+        url:    http://springboot.javaboy.org/2019/0413/spring-boot-parent
   - title:      基础配置
     children:
       - title:  application.properties 配置
