@@ -49,44 +49,62 @@ docs-zh:
         url:    http://localhost:4000/2019/0530/application.properties
       - title:  YAML 配置
         url:    http://localhost:4000/2019/0416/spring-boot-yaml
+      - title:  自定义 starter
+        url:    https://allisjava.github.io/2019/0520/springboot-starter
   - title:      整合视图层
     children:
       - title:  整合 Thymeleaf
         url:    http://localhost:4000/2019/0613/springboot-thymeleaf
-      - title:  创建一个 Spring Boot 项目
-        url:    http://localhost:4000/2019/0412/springboot-init
-      - title:  理解 pom.xml 中的 parent
-        url:    http://localhost:4000/2019/0413/spring-boot-parent        
-      - title:  Java 搭建 SSM
-        url:    http://localhost:4000/2019/0528/javassm
-  - title:      基础配置
+      - title:  整合 Freemarker
+        url:    https://allisjava.github.io/2019/0705/springboot-freemarker
+  - title:      整合 Web 开发
     children:
-      - title:  application.properties 配置
-        url:    http://localhost:4000/2019/0530/application.properties
-      - title:  YAML 配置
-        url:    http://localhost:4000/2019/0416/spring-boot-yaml 
-  - title:      入门
+      - title:  静态资源配置
+        url:    https://allisjava.github.io/2019/0408/springboot-static-resources
+      - title:  @ControllerAdvice 的三种用法
+        url:    https://allisjava.github.io/2019/0422/springmvc-controlleradvice
+      - title:  静态资源配置
+        url:    https://allisjava.github.io/2019/0408/springboot-static-resources
+      - title:  @ControllerAdvice 的三种用法
+        url:    https://allisjava.github.io/2019/0422/springmvc-controlleradvice
+      - title:  自定义异常配置
+        url:    https://allisjava.github.io/2019/0417/spring-boot-exception
+      - title:  CORS 解决跨域
+        url:    https://allisjava.github.io/2019/0412/springboot-cors
+      - title:  定义系统启动任务
+        url:    https://allisjava.github.io/2019/0415/springboot-commandlinerunner
+      - title:  定时任务
+        url:    https://allisjava.github.io/2019/0418/springboot-schedule-task
+      - title:  整合 Swagger2
+        url:    https://allisjava.github.io/2019/0416/springboot-swagger
+  - title:      整合持久层
     children:
-      - title:  Java 搭建 SSM
-        url:    http://localhost:4000/2019/0528/javassm
-      - title:  创建一个 Spring Boot 项目
-        url:    http://localhost:4000/2019/0412/springboot-init
-      - title:  理解 pom.xml 中的 parent
-        url:    http://localhost:4000/2019/0413/spring-boot-parent        
-      - title:  Java 搭建 SSM
-        url:    http://localhost:4000/2019/0528/javassm
-  - title:      基础配置
+      - title:  整合 JdbcTemplate
+        url:    https://allisjava.github.io/2019/0406/jdbctemplate
+      - title:  JdbcTemplate 多数据源
+        url:    https://allisjava.github.io/2019/0406/springboot-jdbctemplate
+      - title:  整合 MyBatis
+        url:    https://allisjava.github.io/2019/0407/springboot-mybatis
+      - title:  MyBatis 多数据源
+        url:    https://allisjava.github.io/2019/0407/mybatis-multi
+      - title:  Spring Data Jpa
+        url:    https://allisjava.github.io/2019/0412/springdata-jpa
+      - title:  整合 Jpa
+        url:    https://allisjava.github.io/2019/0407/springboot-jpa
+      - title:  Jpa 多数据源
+        url:    https://allisjava.github.io/2019/0407/springboot-jpa-multi
+  - title:      整合 NoSQL
     children:
-      - title:  application.properties 配置
-        url:    http://localhost:4000/2019/0530/application.properties
-      - title:  YAML 配置
-        url:    http://localhost:4000/2019/0416/spring-boot-yaml
-  - title:      入门
+      - title:  整合 Redis
+        url:    https://allisjava.github.io/2019/0603/springboot-redis
+      - title:  session 共享
+        url:    https://allisjava.github.io/2019/0604/springboot-springsession
+  - title:      整合缓存框架
     children:
-      - title:  Java 搭建 SSM
-        url:    http://localhost:4000/2019/0528/javassm
-      - title:  创建一个 Spring Boot 项目
-        url:    http://localhost:4000/2019/0412/springboot-init
+      - title:  Spring Cache + Redis
+        url:    https://allisjava.github.io/2019/0416/springboot-redis
+      - title:  Spring Cache + Ehcache
+        url:    https://allisjava.github.io/2019/0612/springboot-ehcache
       - title:  理解 pom.xml 中的 parent
         url:    http://localhost:4000/2019/0413/spring-boot-parent        
       - title:  Java 搭建 SSM
