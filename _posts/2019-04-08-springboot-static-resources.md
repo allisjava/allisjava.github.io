@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 中的静态资源到底要放在哪里？
 tags:
   - Spring Boot

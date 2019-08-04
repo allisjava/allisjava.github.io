@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 最简单的SpringBoot整合MyBatis教程
 tags:
   - Spring Boot

@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 是时候彻底搞清楚 Spring Boot 的配置文件 application.properties 了！
 date: 2019-05-30 08:44:06
 tags: Spring Boot

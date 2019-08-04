@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Security 中的角色继承问题
 date: 2019-06-13 19:44:15
 tags: [Spring Boot,Spring Security]

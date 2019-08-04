@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 整理了八个开源的 Spring Boot 学习资源
 tags: Spring Boot
 categories: Spring Boot

@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 整合 Shiro ，两种方式全总结！
 date: 2019-06-11 09:57:43
 tags: [Spring Boot,Shiro]

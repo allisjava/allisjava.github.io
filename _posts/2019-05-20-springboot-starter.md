@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 徒手撸一个 Spring Boot 中的 Starter ，解密自动化配置黑魔法！
 tags: Spring Boot
 categories: Spring Boot

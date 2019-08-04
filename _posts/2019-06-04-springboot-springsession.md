@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 一个依赖搞定 session 共享，没有比这更简单的方案了！
 date: 2019-06-04 08:26:59
 tags: [Spring Boot,Redis]

@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 整合 Freemarker，50 多行配置是怎么省略掉的？
 date: 2019-07-05 12:14:59
 tags: [SpringBoot,Freemarker]

@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 中关于自定义异常处理的套路！
 tags: Spring Boot
 categories: Spring Boot

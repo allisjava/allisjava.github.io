@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 中实现定时任务的两种方式
 tags: Spring Boot
 categories: Spring Boot

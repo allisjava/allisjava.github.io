@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Security 登录添加验证码
 date: 2019-06-13 19:43:53
 tags: [Spring Boot,Spring Security]

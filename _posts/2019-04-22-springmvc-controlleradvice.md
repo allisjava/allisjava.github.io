@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: SpringMVC 中 @ControllerAdvice 注解的三种使用场景！
 tags:
   - SpringMVC

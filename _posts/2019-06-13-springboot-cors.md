@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot中通过CORS解决跨域问题
 tags:
   - Spring Boot

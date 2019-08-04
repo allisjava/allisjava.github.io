@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: SpringBoot整合Swagger2，再也不用维护接口文档了！
 tags:
   - Spring Boot

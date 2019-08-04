@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 极简Spring Boot整合MyBatis多数据源
 tags:
   - Spring Boot

@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 松哥整理了 15 道 Spring Boot 高频面试题，看完当面霸
 date: 2019-06-19 09:32:30
 tags: 面试

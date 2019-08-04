@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 干货|一个案例学会Spring Security 中使用 JWT
 tags:
   - Spring Boot

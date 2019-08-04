@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 另一种缓存，Spring Boot 整合 Ehcache
 date: 2019-06-12 09:07:39
 tags: [Spring Boot,Ehcache]

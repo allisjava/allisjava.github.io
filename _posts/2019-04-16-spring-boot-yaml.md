@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot中的yaml配置简介
 tags:
   - Spring Boot

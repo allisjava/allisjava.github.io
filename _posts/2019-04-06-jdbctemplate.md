@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot数据持久化之JdbcTemplate
 tags:
   - Spring Boot

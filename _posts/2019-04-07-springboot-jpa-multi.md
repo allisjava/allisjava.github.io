@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot整合Jpa多数据源
 tags:
   - Spring Boot

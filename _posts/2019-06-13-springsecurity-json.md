@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Security 登录使用 JSON 格式数据
 date: 2019-06-13 19:43:38
 tags: [Spring Boot,Spring Security]

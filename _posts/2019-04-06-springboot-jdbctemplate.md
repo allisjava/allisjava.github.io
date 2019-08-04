@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot多数据源配置之JdbcTemplate
 categories: Spring Boot
 tags:

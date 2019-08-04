@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 你真的理解 Spring Boot 项目中的 parent 吗？
 tags: Spring Boot
 categories: Spring Boot

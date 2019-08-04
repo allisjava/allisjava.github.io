@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 极简 Spring Boot 整合 Thymeleaf 页面模板
 date: 2019-06-13 11:55:43
 tags: [Spring Boot,Thymeleaf]

@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 是时候了解下Spring Boot整合 Jpa啦
 tags:
   - Spring Boot

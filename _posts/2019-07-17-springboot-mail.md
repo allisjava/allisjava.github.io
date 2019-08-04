@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 邮件发送的 5 种姿势！
 date: 2019-07-17 08:30:51
 tags: [Spring Boot,Mail]

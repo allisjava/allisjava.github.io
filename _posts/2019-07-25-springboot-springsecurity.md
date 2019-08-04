@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 手把手带你入门 Spring Security！
 date: 2019-07-25 08:44:50
 tags: [Spring Boot,Spring Security]

@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 创建一个 Spring Boot 项目，你会几种方法？
 tags: Spring Boot
 categories: Spring Boot

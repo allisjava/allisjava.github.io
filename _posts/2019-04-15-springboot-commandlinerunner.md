@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 定义系统启动任务，你会几种方式？
 tags: Spring Boot
 categories: Spring Boot

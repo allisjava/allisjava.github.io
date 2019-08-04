@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: 一文读懂 Spring Data Jpa！
 tags:
   - Spring Data

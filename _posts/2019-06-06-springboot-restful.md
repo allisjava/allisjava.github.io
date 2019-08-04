@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 中 10 行代码构建 RESTful 风格应用
 date: 2019-06-06 08:09:03
 tags: Spring Boot

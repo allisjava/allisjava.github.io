@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 操作 Redis，三种方案全解析！
 date: 2019-06-03 08:47:12
 tags: [Spring Boot,Redis]

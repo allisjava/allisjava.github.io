@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot 打包成的可执行 jar ，为什么不能被其他项目依赖？
 date: 2019-07-09 10:19:18
 tags: [Spring Boot]

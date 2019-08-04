@@ -1,4 +1,6 @@
 ---
+sidebar:
+  nav: docs-zh
 title: Spring Boot中，Redis缓存还能这么用！
 tags:
   - Spring Boot
