@@ -109,7 +109,7 @@ docs-zh:
         url:    http://localhost:4000/2019/0413/spring-boot-parent        
       - title:  Java 搭建 SSM
         url:    http://localhost:4000/2019/0528/javassm
-  - title:      基础配置
+  - title:      安全管理
     children:
       - title:  application.properties 配置
         url:    http://localhost:4000/2019/0530/application.properties
