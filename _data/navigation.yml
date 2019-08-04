@@ -1,0 +1,115 @@
+header:
+  - titles:
+      en      : &EN       Archive
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  归档
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  歸檔
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       아카이브
+      ko-KR   : *KO
+    url: /archive.html
+
+  - titles:
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+      zh      : *ZH_HANS
+      zh-CN   : *ZH_HANS
+      zh-SG   : *ZH_HANS
+      zh-Hant : &ZH_HANT  關於
+      zh-TW   : *ZH_HANT
+      zh-HK   : *ZH_HANT
+      ko      : &KO       소개
+      ko-KR   : *KO
+    url: /about.html
+docs-zh:
+  - title:      入门
+    children:
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+      - title:  创建一个 Spring Boot 项目
+        url:    http://localhost:4000/2019/0412/springboot-init
+      - title:  理解 pom.xml 中的 parent
+        url:    http://localhost:4000/2019/0413/spring-boot-parent        
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+  - title:      基础配置
+    children:
+      - title:  application.properties 配置
+        url:    http://localhost:4000/2019/0530/application.properties
+      - title:  YAML 配置
+        url:    http://localhost:4000/2019/0416/spring-boot-yaml
+  - title:      整合视图层
+    children:
+      - title:  整合 Thymeleaf
+        url:    http://localhost:4000/2019/0613/springboot-thymeleaf
+      - title:  创建一个 Spring Boot 项目
+        url:    http://localhost:4000/2019/0412/springboot-init
+      - title:  理解 pom.xml 中的 parent
+        url:    http://localhost:4000/2019/0413/spring-boot-parent        
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+  - title:      基础配置
+    children:
+      - title:  application.properties 配置
+        url:    http://localhost:4000/2019/0530/application.properties
+      - title:  YAML 配置
+        url:    http://localhost:4000/2019/0416/spring-boot-yaml 
+  - title:      入门
+    children:
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+      - title:  创建一个 Spring Boot 项目
+        url:    http://localhost:4000/2019/0412/springboot-init
+      - title:  理解 pom.xml 中的 parent
+        url:    http://localhost:4000/2019/0413/spring-boot-parent        
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+  - title:      基础配置
+    children:
+      - title:  application.properties 配置
+        url:    http://localhost:4000/2019/0530/application.properties
+      - title:  YAML 配置
+        url:    http://localhost:4000/2019/0416/spring-boot-yaml
+  - title:      入门
+    children:
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+      - title:  创建一个 Spring Boot 项目
+        url:    http://localhost:4000/2019/0412/springboot-init
+      - title:  理解 pom.xml 中的 parent
+        url:    http://localhost:4000/2019/0413/spring-boot-parent        
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+  - title:      基础配置
+    children:
+      - title:  application.properties 配置
+        url:    http://localhost:4000/2019/0530/application.properties
+      - title:  YAML 配置
+        url:    http://localhost:4000/2019/0416/spring-boot-yaml
+  - title:      入门
+    children:
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+      - title:  创建一个 Spring Boot 项目
+        url:    http://localhost:4000/2019/0412/springboot-init
+      - title:  理解 pom.xml 中的 parent
+        url:    http://localhost:4000/2019/0413/spring-boot-parent        
+      - title:  Java 搭建 SSM
+        url:    http://localhost:4000/2019/0528/javassm
+  - title:      基础配置
+    children:
+      - title:  application.properties 配置
+        url:    http://localhost:4000/2019/0530/application.properties
+      - title:  YAML 配置
+        url:    http://localhost:4000/2019/0416/spring-boot-yaml
