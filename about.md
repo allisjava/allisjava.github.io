@@ -1,5 +1,7 @@
 ---
 layout: article
+sidebar:
+  nav: docs-zh
 titles:
   en      : &EN       About
   en-GB   : *EN
