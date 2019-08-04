@@ -107,7 +107,7 @@ docs-zh:
         url:    http://localhost:4000/2019/0528/javassm
   - title:      安全管理
     children:
-      - title:  application.properties 配置
+      - title:  整合 Shiro
         url:    http://localhost:4000/2019/0530/application.properties
       - title:  YAML 配置
         url:    http://localhost:4000/2019/0416/spring-boot-yaml
