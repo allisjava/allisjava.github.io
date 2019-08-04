@@ -12,7 +12,7 @@ Spring Boot2 系列教程接近完工，最近进入修修补补阶段。Freemar
 
 已经完工的 Spring Boot2 教程，大家可以参考这里：
 
-1. [干货|最新版 Spring Boot2.1.5 教程+案例合集](https://mp.weixin.qq.com/s/YXBFFtWvSwR6dVLbaGDxcQ)
+1. [干货\|最新版 Spring Boot2.1.5 教程+案例合集](https://mp.weixin.qq.com/s/YXBFFtWvSwR6dVLbaGDxcQ)
 
 # Freemarker 简介
 
