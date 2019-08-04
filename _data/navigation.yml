@@ -61,11 +61,7 @@ docs-zh:
     children:
       - title:  静态资源配置
         url:    https://allisjava.github.io/2019/0408/springboot-static-resources
-      - title:  @ControllerAdvice 的三种用法
-        url:    https://allisjava.github.io/2019/0422/springmvc-controlleradvice
-      - title:  静态资源配置
-        url:    https://allisjava.github.io/2019/0408/springboot-static-resources
-      - title:  @ControllerAdvice 的三种用法
+      - title:  '@ControllerAdvice 的三种用法'
         url:    https://allisjava.github.io/2019/0422/springmvc-controlleradvice
       - title:  自定义异常配置
         url:    https://allisjava.github.io/2019/0417/spring-boot-exception
