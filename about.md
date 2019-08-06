@@ -28,9 +28,9 @@ key: page-about
 
 # 我的站点
 
-- 独立站点： https://www.javaboy.org
-- GitHub： https://github.com/lenve
-- CSDN： http://wangsong.blog.csdn.net
-- 思否： https://segmentfault.com/u/lenve
-- 博客园： https://www.cnblogs.com/lenve
-- 掘金： https://juejin.im/user/57d679af0bd1d000585012a7
+- 独立站点： [https://www.javaboy.org](https://www.javaboy.org)
+- GitHub： [https://github.com/lenve](https://github.com/lenve)
+- CSDN： [http://wangsong.blog.csdn.net](http://wangsong.blog.csdn.net)
+- 思否： [https://segmentfault.com/u/lenve](https://segmentfault.com/u/lenve)
+- 博客园： [https://www.cnblogs.com/lenve](https://www.cnblogs.com/lenve)
+- 掘金： [https://juejin.im/user/57d679af0bd1d000585012a7](https://juejin.im/user/57d679af0bd1d000585012a7)
