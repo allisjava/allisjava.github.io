@@ -17,6 +17,14 @@ header:
     url: /archive.html
 
   - titles:
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      zh-Hans : &ZH_HANS  关于
+    url: /about.html
+  - titles:
       en      : &EN       more
       en-GB   : *EN
       en-US   : *EN
