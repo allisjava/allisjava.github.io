@@ -24,6 +24,7 @@ header:
       en-AU   : *EN
       zh-Hans : &ZH_HANS  关于
     url: /about.html
+    
   - titles:
       en      : &EN       more
       en-GB   : *EN
