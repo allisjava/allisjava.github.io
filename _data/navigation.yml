@@ -100,10 +100,6 @@ docs-zh:
         url:    http://springboot.javaboy.org/2019/0416/springboot-redis
       - title:  Spring Cache + Ehcache
         url:    http://springboot.javaboy.org/2019/0612/springboot-ehcache
-      - title:  理解 pom.xml 中的 parent
-        url:    http://springboot.javaboy.org/2019/0413/spring-boot-parent        
-      - title:  Java 搭建 SSM
-        url:    http://springboot.javaboy.org/2019/0528/javassm
   - title:      构建 REST 服务
     children:
       - title:  Spring Data Jpa 构建 REST
