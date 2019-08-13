@@ -107,7 +107,7 @@ docs-zh:
   - title:      安全管理
     children:
       - title:  整合 Shiro
-        url:    http://springboot.javaboy.org/2019/0530/application.properties
+        url:    http://springboot.javaboy.org/2019/0611/springboot-shiro
       - title:  整合 Spring Security
         url:    http://springboot.javaboy.org/2019/0725/springboot-springsecurity
       - title:  Spring Security 添加验证码
