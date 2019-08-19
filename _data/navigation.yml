@@ -48,8 +48,12 @@ docs-zh:
         url:    http://springboot.javaboy.org/2019/0530/application.properties
       - title:  YAML 配置
         url:    http://springboot.javaboy.org/2019/0416/spring-boot-yaml
+      - title:  HTTPS 配置
+        url:    http://springboot.javaboy.org/2019/0813/springboot-https
       - title:  自定义 starter
         url:    http://springboot.javaboy.org/2019/0520/springboot-starter
+      - title:  条件注解，Spring Boot 的基石
+        url:    http://springboot.javaboy.org/2019/0802/springboot-conditional
   - title:      整合视图层
     children:
       - title:  整合 Thymeleaf
@@ -118,6 +122,10 @@ docs-zh:
         url:    http://springboot.javaboy.org/2019/0613/springsecurity-role
       - title:  Spring Security 整合 JWT
         url:    http://springboot.javaboy.org/2019/0408/springboot-jwt
+  - title:      热部署
+    children:
+      - title:  LiveReload
+        url:    http://springboot.javaboy.org/2019/0808/springboot-livereload
   - title:      打包
     children:
       - title:  可执行 jar 分析
@@ -126,6 +134,10 @@ docs-zh:
     children:
       - title:  邮件发送
         url:    http://springboot.javaboy.org/2019/0717/springboot-mail
+  - title:      Spring Boot 中的 Bug
+    children:
+      - title:  Spring Session 的 Bug
+        url:    http://springboot.javaboy.org/2019/0814/springboot-bug
   - title:      其他资料
     children:
       - title:  八个开源项目
