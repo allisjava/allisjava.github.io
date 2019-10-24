@@ -96,6 +96,8 @@ docs-zh:
     children:
       - title:  整合 Redis
         url:    http://springboot.javaboy.org/2019/0603/springboot-redis
+      - title:  Nginx 入门
+        url:    http://springboot.javaboy.org/2019/0605/nginx-guide
       - title:  session 共享
         url:    http://springboot.javaboy.org/2019/0604/springboot-springsession
   - title:      整合缓存框架
