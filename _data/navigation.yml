@@ -76,6 +76,8 @@ docs-zh:
         url:    http://springboot.javaboy.org/2019/0418/springboot-schedule-task
       - title:  整合 Swagger2
         url:    http://springboot.javaboy.org/2019/0416/springboot-swagger
+      - title:  SpringMVC 的配置问题
+        url:    http://springboot.javaboy.org/2019/0912/springmvc-config
   - title:      整合持久层
     children:
       - title:  整合 JdbcTemplate
@@ -124,14 +126,19 @@ docs-zh:
         url:    http://springboot.javaboy.org/2019/0613/springsecurity-role
       - title:  Spring Security 整合 JWT
         url:    http://springboot.javaboy.org/2019/0408/springboot-jwt
+      - title:  Spring Security 登录重定向问题
+        url:    http://springboot.javaboy.org/2019/1016/springsecurity-login-json
   - title:      热部署
     children:
       - title:  LiveReload
         url:    http://springboot.javaboy.org/2019/0808/springboot-livereload
-  - title:      打包
+  - title:      打包发布
     children:
       - title:  可执行 jar 分析
         url:    http://springboot.javaboy.org/2019/0709/springboot-jar
+    children:
+      - title:  Docker 发布
+        url:    http://springboot.javaboy.org/2019/0830/springboot-docker
   - title:      企业开发
     children:
       - title:  邮件发送
@@ -142,6 +149,10 @@ docs-zh:
         url:    http://springboot.javaboy.org/2019/0814/springboot-bug
   - title:      其他资料
     children:
+      - title:  视频教程
+        url:    http://springboot.javaboy.org/2019/0826/springboot-video
+      - title:  40 篇原创干货
+        url:    http://springboot.javaboy.org/2019/0820/springboot-guide
       - title:  八个开源项目
         url:    http://springboot.javaboy.org/2019/0517/springboot-samples
       - title:  15 个高频面试题
