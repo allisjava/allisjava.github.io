@@ -126,7 +126,7 @@ docs-zh:
         url:    http://springboot.javaboy.org/2019/0613/springsecurity-role
       - title:  Spring Security 整合 JWT
         url:    http://springboot.javaboy.org/2019/0408/springboot-jwt
-      - title:  Spring Security 登录重定向
+      - title:  Spring Security 登录重定向问题
         url:    http://springboot.javaboy.org/2019/1016/springsecurity-login-json
   - title:      热部署
     children:
