@@ -136,7 +136,6 @@ docs-zh:
     children:
       - title:  可执行 jar 分析
         url:    http://springboot.javaboy.org/2019/0709/springboot-jar
-    children:
       - title:  Docker 发布
         url:    http://springboot.javaboy.org/2019/0830/springboot-docker
   - title:      企业开发
