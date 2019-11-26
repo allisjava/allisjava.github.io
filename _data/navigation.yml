@@ -138,6 +138,8 @@ docs-zh:
         url:    http://springboot.javaboy.org/2019/0709/springboot-jar
       - title:  Docker 发布
         url:    http://springboot.javaboy.org/2019/0830/springboot-docker
+      - title:  Jib 发布
+        url:    http://springboot.javaboy.org/2019/1107/springboot-docker
   - title:      企业开发
     children:
       - title:  邮件发送
@@ -146,12 +148,22 @@ docs-zh:
     children:
       - title:  Spring Session 的 Bug
         url:    http://springboot.javaboy.org/2019/0814/springboot-bug
+  - title:      应用
+    children:
+      - title:  SpringBoot 开发微信公众号后台(一)
+        url:    http://springboot.javaboy.org/2019/1029/springboot-weixin
+      - title:  SpringBoot 开发微信公众号后台(二)
+        url:    http://springboot.javaboy.org/2019/1030/springboot-weixin
   - title:      其他资料
     children:
-      - title:  视频教程
+      - title:  松哥自制视频教程
         url:    http://springboot.javaboy.org/2019/0826/springboot-video
+      - title:  2TB 免费视频教程
+        url:    http://springboot.javaboy.org/2019/1112/java-video
       - title:  40 篇原创干货
         url:    http://springboot.javaboy.org/2019/0820/springboot-guide
+      - title:  SpringBoot+Vue 资料
+        url:    http://springboot.javaboy.org/2019/1120/springboot-vue
       - title:  八个开源项目
         url:    http://springboot.javaboy.org/2019/0517/springboot-samples
       - title:  15 个高频面试题
